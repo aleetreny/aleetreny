@@ -22,9 +22,9 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | Python, R, SQL, MATLAB, HTML |
-| **Data Analysis** | Pandas, NumPy, Scikit-learn, Statsmodels |
-| **BI & Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| **ML/Deep Learning** | PyTorch, TensorFlow, Keras |
+| **Data Analysis** | Pandas, NumPy, Statsmodels |
+| **BI & Visualization** | Power BI, Matplotlib, Seaborn |
+| **ML/Deep Learning** | PyTorch, TensorFlow, Scikit-learn |
 | **Deployment & Versioning**| Git, GitHub |
 
 </td>
