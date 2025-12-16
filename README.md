@@ -13,9 +13,9 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 
 ---
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%; padding: 0 10px 0 0; vertical-align: top;">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🛠️ Tech Stack & Languages
 
@@ -27,8 +27,8 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 | **ML/Deep Learning** | PyTorch, TensorFlow, Keras |
 | **Deployment & Versioning**| Git, GitHub |
 
-    </td>
-    <td style="width: 50%; padding: 0 0 0 10px; vertical-align: top;">
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Featured Repositories
 
@@ -38,8 +38,8 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 | **Data Science Ecosystem** | Core projects and environment setups in Data Science. | [Data-Science-Ecosystem](https://github.com/aleetreny/Data-Science-Ecosystem) |
 | **Development** | Miscellaneous development utilities and code snippets. | [Development](https://github.com/aleetreny/Development) |
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -49,4 +49,4 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 * 🌌 **Astro-Analytics:** Deep interest in Astronomy and telescopes; I study patterns in the cosmos for pleasure.
 * 🥕 **Horticulture:** I enjoy tending a small vegetable garden and harvesting my own produce.
 * 🎾 **Padel & Pickleball:** I enjoy playing racket sports, particularly Padel and Pickleball.
-* 📚 **Literature & Culture:** Avid reader of Sci-Fi and Fantasy. Lover of Asian cuisine.
+* 📚 **Literature & Culture:** Avid reader of Sci-Fi and Fantasy (Douglas Adams is essential) and a lover of Asian cuisine.
