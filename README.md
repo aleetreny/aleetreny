@@ -4,7 +4,7 @@
 
 </div>
 
-Hi! I amd Alejandro and I specialize in bridging the gap between advanced **Statistics** and business strategy. I develop high-performance Machine Learning algorithms and, crucially, I make sure the output is understandable by translating complex math into clear, actionable Power BI dashboards.
+Hello there! I'm Alejandro Treny and I specialize in bridging the gap between advanced **Statistics** and business strategy. I develop high-performance Machine Learning algorithms and, crucially, I make sure the output is understandable by translating complex math into clear, actionable Power BI dashboards.
 
 **Focus Areas:**
 * 🧮 **Applied Mathematics:** Building and validating predictive models.
@@ -20,7 +20,7 @@ Hi! I amd Alejandro and I specialize in bridging the gap between advanced **Stat
 | **Languages** | Python, R, SQL, MATLAB, HTML |
 | **Data Analysis** | Pandas, NumPy, Scikit-learn, Statsmodels |
 | **BI & Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| **ML/Deep Learning** | PyTorch, TensorFlow, Keras (Self-Learning/Projects) |
+| **ML/Deep Learning** | PyTorch, TensorFlow, Keras |
 | **Deployment & Versioning**| Git, GitHub |
 
 ---
