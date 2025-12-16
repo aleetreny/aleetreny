@@ -4,42 +4,22 @@
 
 Hello there! I'm Alejandro Treny and I specialize in bridging the gap between advanced Statistics and Business Strategy. I develop high-performance Machine Learning algorithms and, crucially, I make sure the output is understandable by translating complex math into clear, actionable Power BI dashboards.
 
-**Focus Areas:**
+### Focus Areas
+
 * 🧮 **Applied Mathematics:** Building and validating predictive models.
 * 📊 **Data Translation:** Business Intelligence & Data Storytelling.
 * ⚙️ **Efficiency:** Automating processes and driving data objectivity.
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+###  Tech Stack & Languages
 
-### Tech Stack & Languages
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | Python, R, SQL, MATLAB, HTML |
-| **Data Analysis** | Pandas, NumPy, Statsmodels |
-| **BI & Visualization** | Power BI, Matplotlib, Seaborn |
-| **ML/Deep Learning** | PyTorch, TensorFlow, Scikit-learn |
-| **Deployment & Versioning**| Git, GitHub |
-
-</td>
-<td width="50%" valign="top">
-
-### Featured Repositories
-
-| Project | Link |
-| :--- | :--- |
-| **Interactive CV (CLI)** | [Web](https://aleetreny.github.io) |
-| **Data Science** | [Data-Science](https://github.com/aleetreny/Data-Science-Ecosystem) |
-| **Development** | [Development](https://github.com/aleetreny/Development) |
-
-</td>
-</tr>
-</table>
-
+* **Languages:** `Python` `R` `SQL` `HTML`
+* **Data Manipulation:** `Pandas` `NumPy` `Statsmodels`
+* **BI & Visualization:** `Power BI` `Tableau` `Matplotlib` `Seaborn` `Plotly`
+* **Machine Learning:** `Scikit-learn` `PyTorch` `TensorFlow` `XGBoost`
+* **Tools & Environment:** `Git` `GitHub` `Jupyter` `Positron` `Quarto`
+  
 ---
 
 ### Interests
