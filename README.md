@@ -32,8 +32,8 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 
 | Project | Link |
 | :--- | :--- |
-| **Interactive CV (CLI)** | [aleetreny.github.io](https://aleetreny.github.io) |
-| **Data Science Ecosystem** | [Data-Science-Ecosystem](https://github.com/aleetreny/Data-Science-Ecosystem) |
+| **Interactive CV (CLI)** | [Web](https://aleetreny.github.io) |
+| **Data Science** | [Data-Science](https://github.com/aleetreny/Data-Science-Ecosystem) |
 | **Development** | [Development](https://github.com/aleetreny/Development) |
 
 </td>
@@ -42,7 +42,7 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 
 ---
 
-### ✨ Interests
+### Interests
 
 * 🌌 **Astro-Analytics:** Deep interest in Astronomy and telescopes; I study patterns in the cosmos for pleasure.
 * 🥕 **Horticulture:** I enjoy tending a small vegetable garden and harvesting my own produce.
