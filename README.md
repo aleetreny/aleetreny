@@ -17,7 +17,7 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Tech Stack & Languages
+### Tech Stack & Languages
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -30,13 +30,13 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Featured Repositories
+### Featured Repositories
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **Interactive CV (CLI)** | My unique, terminal-style résumé. | [aleetreny.github.io](https://aleetreny.github.io) |
-| **Data Science Ecosystem** | Core projects and environment setups in Data Science. | [Data-Science-Ecosystem](https://github.com/aleetreny/Data-Science-Ecosystem) |
-| **Development** | Miscellaneous development utilities and code snippets. | [Development](https://github.com/aleetreny/Development) |
+| Project | Link |
+| :--- | :--- |
+| **Interactive CV (CLI)** | [aleetreny.github.io](https://aleetreny.github.io) |
+| **Data Science Ecosystem** | [Data-Science-Ecosystem](https://github.com/aleetreny/Data-Science-Ecosystem) |
+| **Development** | [Development](https://github.com/aleetreny/Development) |
 
 </td>
 </tr>
