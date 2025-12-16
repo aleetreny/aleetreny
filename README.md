@@ -4,7 +4,7 @@
 
 </div>
 
-Hello there! I'm Alejandro Treny and I specialize in bridging the gap between advanced **Statistics** and business strategy. I develop high-performance Machine Learning algorithms and, crucially, I make sure the output is understandable by translating complex math into clear, actionable Power BI dashboards.
+Hello there! I'm Alejandro Treny and I specialize in bridging the gap between advanced Statistics and Business Strategy. I develop high-performance Machine Learning algorithms and, crucially, I make sure the output is understandable by translating complex math into clear, actionable Power BI dashboards.
 
 **Focus Areas:**
 * 🧮 **Applied Mathematics:** Building and validating predictive models.
