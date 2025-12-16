@@ -1,5 +1,5 @@
 <div align="center">
-  
+  
 # Welcome to My GitHub Profile <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="5%" height = "5%" alt="Animación de ejemplo">
 
 </div>
@@ -9,11 +9,15 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 **Focus Areas:**
 * 🧮 **Applied Mathematics:** Building and validating predictive models.
 * 📊 **Data Translation:** Business Intelligence & Data Storytelling.
-* 📈 **Efficiency:** Automating processes and driving data objectivity.
+* ⚙️ **Efficiency:** Automating processes and driving data objectivity.
 
 ---
 
-### Tech Stack & Languages
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; padding: 0 10px 0 0; vertical-align: top;">
+
+### 🛠️ Tech Stack & Languages
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -23,9 +27,10 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 | **ML/Deep Learning** | PyTorch, TensorFlow, Keras |
 | **Deployment & Versioning**| Git, GitHub |
 
----
+    </td>
+    <td style="width: 50%; padding: 0 0 0 10px; vertical-align: top;">
 
-### Featured Repositories
+### 🌐 Featured Repositories
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
@@ -33,11 +38,15 @@ Hello there! I'm Alejandro Treny and I specialize in bridging the gap between ad
 | **Data Science Ecosystem** | Core projects and environment setups in Data Science. | [Data-Science-Ecosystem](https://github.com/aleetreny/Data-Science-Ecosystem) |
 | **Development** | Miscellaneous development utilities and code snippets. | [Development](https://github.com/aleetreny/Development) |
 
+    </td>
+  </tr>
+</table>
+
 ---
 
-### Interests
+### ✨ Interests
 
 * 🌌 **Astro-Analytics:** Deep interest in Astronomy and telescopes; I study patterns in the cosmos for pleasure.
-* 🥕 **Horticulture:** I maintain a small garden and vegetable patch; I appreciate the seasonal planning and the patience required for cultivation.
-* 🎾 **Padel & Pickleball:** Former competitor who maintains an active profile in racket sports.
-* 📚 **Literature & Culture:** Avid reader of Sci-Fi and Fantasy (Douglas Adams is essential) and a lover of Asian cuisine.
+* 🥕 **Horticulture:** I enjoy tending a small vegetable garden and harvesting my own produce.
+* 🎾 **Padel & Pickleball:** I enjoy playing racket sports, particularly Padel and Pickleball.
+* 📚 **Literature & Culture:** Avid reader of Sci-Fi and Fantasy. Lover of Asian cuisine.
