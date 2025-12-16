@@ -1,7 +1,5 @@
 <div align="center">
-  
-# Welcome to My GitHub Profile <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="5%" height = "5%" alt="Animación de ejemplo">
-
+  <h1>Welcome to My GitHub Profile <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="35px" style="margin-bottom: -5px;" alt="Waving Hand"></h1>
 </div>
 
 Hello there! I'm Alejandro Treny and I specialize in bridging the gap between advanced Statistics and Business Strategy. I develop high-performance Machine Learning algorithms and, crucially, I make sure the output is understandable by translating complex math into clear, actionable Power BI dashboards.
